@@ -9,7 +9,7 @@
 </script>
 
 
-<section class="default-margin mt-l" id={sectionName}>
+<section class="mt-l" id={sectionName}>
     <h1>{@render children()}</h1>
     <div class="underscore"></div>
 </section>
