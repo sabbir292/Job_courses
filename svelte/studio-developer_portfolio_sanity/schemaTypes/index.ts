@@ -1,1 +1,2 @@
-export const schemaTypes = []
+import { devExperience } from "./devExperience"
+export const schemaTypes = [devExperience]
